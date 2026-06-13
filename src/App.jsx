@@ -120,9 +120,9 @@ function App() {
       </Marquee>
 
       <header className="site-header">
-        <a className="brand" href="#top" aria-label="Uday portfolio home">
+        <a className="brand" href="#top" aria-label="Sampangi Uday Kumar portfolio home">
           <span className="brand__mark">U</span>
-          <span>Uday</span>
+          <span>Sampangi Uday Kumar</span>
         </a>
 
         <nav className="site-nav" aria-label="Primary navigation">
